@@ -1,0 +1,1 @@
+java -cp bin day05.BirdGame

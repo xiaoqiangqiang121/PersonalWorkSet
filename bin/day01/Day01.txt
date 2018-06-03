@@ -1,0 +1,109 @@
+user: soft01
+pwd: soft01
+
+刘苍松
+liucangsong@gmail.com
+liucs@tarena.com.cn
+
+15601035818
+
+阿兰.图灵
+
+操作系统: windows xp  win7
+          Linux  （内核是Linux + GUI外壳(鼠标)）
+          Unix
+          Android（内核是Linux + 触摸界面外壳）
+	  IOS （Unix 内核 + 触摸界面外壳）
+
+操作系统: 管理程序运行的程序
+
+计算机系统的结构：
+           操作系统
+   (((硬件)内核)外壳) 应用程序
+                
+外壳：命令外壳 或者 图形用户界面(鼠标)
+
+命令： pwd   显示当前的工作目录
+
+“文件系统”：操作系统管理数据文件的逻辑结构
+  如：C： D： E:
+
+“文件系统”的结构：
+  windows：
+    c:\
+     |--Windows
+     |--Program files 
+     |-- ...
+
+    d:\
+     |-- 女友
+     |    |-- 2013 
+     |    |-- 爱好
+     |-- 前女友
+
+资源管理器 窗口
+  地址栏：显示的是"当前工作目录"
+  资源管理器窗口中显示的是“当前工作目录”内容列表
+
+Linux 文件系统的结构：
+  相当于只有C:\的windows文件系统，且省略了C：
+  "C:\" c盘的根目录
+
+  /  根目录
+  |-- etc
+  |-- usr
+  |-- opt
+  |    |-- eclipse 
+  |           |-- eclipse  程序
+  |-- home
+  |    |-- soft01   当前工作目录
+  |           |-- workspace 文件夹
+  |                  |-- JSD1402_FlappyBird
+  |                         |-- src
+  |                              |--day01
+  |                                   |--HelloWorld.java
+  |-- mnt
+       |-- sdcard 挂载点
+       |-- cdrom
+
+ls 显示目录的内容，默认显示"当前目录内容"
+
+工作空间(Workspace)：Eclipse 开发Java程序的保存目录
+
+Java 开发工具：Eclipse(日食、月食)
+
+Eclipse.org
+Eclipse 安装：
+  1) 先安装JDK（Oracle 网站下载）
+  注意版本：
+  64位操作系统（OS）：64位 JDK (X64)
+  64位操作系统（OS）：32位 JDK (X86) 
+  32操作系统（OS）：32位 JDK  
+  
+  2) 下载 安装Eclipse
+  注意版本：
+  64位操作系统（OS）：64位 JDK (X64)+64位Eclipse
+  64位操作系统（OS）：32位 JDK (X86)+32位Eclipse
+  32操作系统（OS）：32位 JDK +32位Eclipse
+
+  Eclipse 是绿色软件，解包就可以了！
+
+ MAC(苹果电脑)
+  1) 执行java命令 自动安装JDK
+  2) 下载安装64位 MAC版本的Eclipse
+
+Project 项目、工程
+  FlappyBird  飞扬的小鸟
+
+
+
+
+
+
+
+
+
+
+
+
+
